@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6815
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Radziwill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16600#Cecil-RhodesMan-and-Empire-Maker
 gutenberg_issued: '2005-08-26'
 gutenberg_type: Text
 identifiers:
