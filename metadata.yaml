@@ -1,0 +1,37 @@
+_repo: Cecil-RhodesMan-and-Empire-Maker_16600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Radziwill, Catherine, Princess
+    aliases:
+    - Vassili, Paul, comte
+    - Kolb-Danvin, Catherine
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '6815'
+    url: http://www.gutenberg.org/2009/agents/6815
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Radziwill
+description: ''
+gutenberg_issued: '2005-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhodes, Cecil, 1853-1902'
+- !lcsh 'South Africa -- Politics and government'
+- !lcc 'DT'
+tableOfContents: Cecil Rhodes and Sir Alfred Milner -- The foundations of fortune
+  -- A complex personality -- Mrs. Van Koopman -- Rhodes and the raid -- The aftermath
+  of the raid -- Rhodes and the Afrikander Bond -- The influence of Sir Alfred Milner
+  -- The opening of the new century -- An estimate of Sir Alfred Milner -- Cross currents
+  -- The concentration camps -- The prisoners' camps -- In flight from the rand --
+  Dealing with the refugees -- Under martial law -- Conclusion.
+title: Cecil Rhodes, Man and Empire-Maker
+url: http://www.gutenberg.org/ebooks/16600
